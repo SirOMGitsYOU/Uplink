@@ -1,27 +1,12 @@
 [
   {
-    "uid": "mc.hypixel.net",
-    "key": "server-mc_hypixel_net",
-    "name": "mc.hypixel.net"
-  },
-  {
-    "uid": "mc.flamenetwork.net",
-    "key": "server-mc_flamenetwork_net",
-    "name": "mc.flamenetwork.net"
-  },
-  {
-    "uid": "demo.spongepowered.org",
-    "key": "server-demo_spongepowered_org",
-    "name": "demo.spongepowered.org"
-  },
-  {
-    "uid": "play.toastynetworks.net",
-    "key": "server-play_toastynetworks_net",
-    "name": "play.toastynetworks.net"
+    "uid": "188.165.213.13",
+    "key": "server-aboe-classic",
+    "name": "ABOE Classic"
   },
   {
     "uid": "localhost",
     "key": "server-localhost",
-    "name": "Local Server"
+    "name": "ABOE Classic - Local Server"
   }
 ]
